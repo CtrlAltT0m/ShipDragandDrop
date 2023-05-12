@@ -29,7 +29,7 @@ public class Maritime extends JFrame {
 
         // Create the navy ships, submarines, and aircraft icons
         navyIcons = new JLabel[9];
-        navyIcons[0] = createIcon("C:/DEV/destroyer_icon.png", 600, 399);
+        navyIcons[0] = createIcon("C:/DEV/destroyer_icon.png", 50, 50);
 
 
         // Add icons to the seaPanel
